@@ -29,7 +29,23 @@
     <![endif]-->
 
 </head>
-
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1501471167048346');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1501471167048346&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 <body>
 
     <!-- Navigation -->
@@ -77,8 +93,8 @@
                     <div class="clearfix"></div>
                     <h2 class="section-heading">Hidden Earth</h2>
                     <p class="lead">Hidden Earth is an adventure shooter game with puzzle elements. Several meteorites have fallen to the Earth and brought a terrible virus. Find all the components and create a cure for the disease. Fans of hidden objects enjoy the opportunity to search for various items in an Apocalypse world.</p>
-					<p class="lead"><b>iOS:</b> <a href="https://apps.apple.com/us/app/hidden-earth/id1626282736" target="_blank">https://apps.apple.com/us/app/hidden-earth/id1626282736</a></p>
-					<p class="lead"><b>Android:</b> <a href="https://play.google.com/store/apps/details?id=com.expogames.hiddenearth" target="_blank">https://play.google.com/store/apps/details?id=com.expogames.hiddenearth</a></p>
+					<p class="lead"><b>iOS:</b> <a href="https://apps.apple.com/us/app/hidden-earth/id1626282736" target="_blank" onClick="fbq('track', 'Hidden Earth iOS')">https://apps.apple.com/us/app/hidden-earth/id1626282736</a></p>
+					<p class="lead"><b>Android:</b> <a href="https://play.google.com/store/apps/details?id=com.expogames.hiddenearth" target="_blank" onClick="fbq('track', 'Hidden Earth Android')">https://play.google.com/store/apps/details?id=com.expogames.hiddenearth</a></p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
 					<img class="img-responsive" src="img/hidden-earth-icon.jpg" alt="Hidden Earth"><br>
