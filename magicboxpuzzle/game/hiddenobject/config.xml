@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category id="0" music="6.mp3" encrypt="1">
+        <name lng="en">New Year</name>
+        <name lng="ru">Новый год</name>
+    </category>
+    <category id="1" music="5.mp3">
+        <name lng="en">Christmas</name>
+        <name lng="ru">Рождество</name>
+    </category>
+    <category id="2" music="3.mp3">
+        <name lng="en">Art</name>
+        <name lng="ru">Искусство</name>
+    </category>
+    <category id="3" music="2.mp3">
+        <name lng="en">Astronaut</name>
+        <name lng="ru">Астронавт</name>
+    </category>
+    <category id="4" music="1.mp3">
+        <name lng="en">Relax</name>
+        <name lng="ru">Отдых</name>
+    </category>
+    <category id="5" music="2.mp3">
+        <name lng="en">Adventure</name>
+        <name lng="ru">Приключение</name>
+    </category>
+    <category id="6" music="1.mp3">
+        <name lng="en">Lost city</name>
+        <name lng="ru">Затерянный город</name>
+    </category>
+    <category id="7" music="3.mp3">
+        <name lng="en">Discovery</name>
+        <name lng="ru">Исследование</name>
+    </category>
+    <category id="8" music="1.mp3" encrypt="1">
+        <name lng="en">Shopping</name>
+        <name lng="ru">Шопинг</name>
+    </category>
+    <category id="9" music="7.mp3">
+        <name lng="en">Ancient city</name>
+        <name lng="ru">Древний город</name>
+    </category>
+    <category id="10" music="2.mp3">
+        <name lng="en">Ghost town</name>
+        <name lng="ru">Город призраков</name>
+    </category>
+    <category id="11" music="3.mp3" encrypt="1">
+        <name lng="en">Wedding</name>
+        <name lng="ru">Свадьба</name>
+    </category>
+    <category id="12" music="1.mp3">
+        <name lng="en">Haunted house</name>
+        <name lng="ru">Дом с привидениями</name>
+    </category>
+    <category id="13" music="3.mp3" encrypt="1">
+        <name lng="en">Secret places</name>
+        <name lng="ru">Секретные места</name>
+    </category>
+    <category id="14" music="2.mp3">
+        <name lng="en">Space</name>
+        <name lng="ru">Космос</name>
+    </category>
+    <category id="15" music="10.mp3">
+        <name lng="en">Lost farm</name>
+        <name lng="ru">Старая ферма</name>
+    </category>
+    <category id="16" music="1.mp3" encrypt="1">
+        <name lng="en">Dinosaurs</name>
+        <name lng="ru">Динозавры</name>
+    </category>
+    <category id="17" music="7.mp3">
+        <name lng="en">Mystic</name>
+        <name lng="ru">Мистика</name>
+    </category>
+    <category id="18" music="2.mp3" encrypt="1">
+        <name lng="en">Family vacation</name>
+        <name lng="ru">Семейный отдых</name>
+    </category>
+    <category id="19" music="1.mp3">
+        <name lng="en">Mystery</name>
+        <name lng="ru">Тайна</name>
+    </category>
+    <category id="20" music="3.mp3">
+        <name lng="en">Lost village</name>
+        <name lng="ru">Затерянная деревня</name>
+    </category>
+    <category id="21" music="2.mp3">
+        <name lng="en">Ocean</name>
+        <name lng="ru">Океан</name>
+    </category>
+    <category id="22" music="1.mp3" encrypt="1">
+        <name lng="en">Fairies</name>
+        <name lng="ru">Феи</name>
+    </category>
+    <category id="23" music="3.mp3" encrypt="1">
+        <name lng="en">Princess castle</name>
+        <name lng="ru">Замок принцессы</name>
+    </category>
+    <category id="24" music="2.mp3">
+        <name lng="en">House secrets</name>
+        <name lng="ru">Домашние секреты</name>
+    </category>
+    <category id="25" music="1.mp3" encrypt="1">
+        <name lng="en">Mermaids</name>
+        <name lng="ru">Русалки</name>
+    </category>
+</categories>

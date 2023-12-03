@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category id="0" music="1.mp3">
+        <name lng="en">Aircrafts</name>
+        <name lng="ru">Самолеты</name>
+    </category>
+    <category id="1" music="5.mp3">
+        <name lng="en">New Year</name>
+        <name lng="ru">Новый год</name>
+    </category>
+    <category id="2" music="7.mp3">
+        <name lng="en">Warriors</name>
+        <name lng="ru">Воины</name>
+    </category>
+    <category id="3" music="2.mp3">
+        <name lng="en">Butterflies</name>
+        <name lng="ru">Бабочки</name>
+    </category>
+    <category id="4" music="1.mp3">
+        <name lng="en">Castles</name>
+        <name lng="ru">Замки</name>
+    </category>
+    <category id="5" music="8.mp3">
+        <name lng="en">Cats</name>
+        <name lng="ru">Кошки</name>
+    </category>
+    <category id="6" music="6.mp3">
+        <name lng="en">Christmas</name>
+        <name lng="ru">Рождество</name>
+    </category>
+    <category id="7" music="5.mp3">
+        <name lng="en">Christmas Tree</name>
+        <name lng="ru">Новогодняя елка</name>
+    </category>
+    <category id="8" music="4.mp3">
+        <name lng="en">Puppies</name>
+        <name lng="ru">Щенки</name>
+    </category>
+    <category id="9" music="3.mp3">
+        <name lng="en">Spring</name>
+        <name lng="ru">Весна</name>
+    </category>
+    <category id="10" music="2.mp3">
+        <name lng="en">Sci-Fi</name>
+        <name lng="ru">Фантастика</name>
+    </category>
+    <category id="11" music="1.mp3">
+        <name lng="en">Fantasy</name>
+        <name lng="ru">Фэнтези</name>
+    </category>
+    <category id="12" music="3.mp3">
+        <name lng="en">Relax</name>
+        <name lng="ru">Отдых</name>
+    </category>
+    <category id="13" music="3.mp3">
+        <name lng="en">Halloween</name>
+        <name lng="ru">Хэллоуин</name>
+    </category>
+    <category id="14" music="14.mp3">
+        <name lng="en">Hamsters</name>
+        <name lng="ru">Хомячки</name>
+    </category>
+    <category id="15" music="7.mp3">
+        <name lng="en">Historical places</name>
+        <name lng="ru">Исторические места</name>
+    </category>
+    <category id="16" music="3.mp3">
+        <name lng="en">Knights</name>
+        <name lng="ru">Рыцари</name>
+    </category>
+    <category id="17" music="2.mp3">
+        <name lng="en">Magic</name>
+        <name lng="ru">Магия</name>
+    </category>
+    <category id="18" music="1.mp3">
+        <name lng="en">Tanks</name>
+        <name lng="ru">Танки</name>
+    </category>
+    <category id="19" music="7.mp3">
+        <name lng="en">Legends</name>
+        <name lng="ru">Легенды</name>
+    </category>
+    <category id="20" music="8.mp3">
+        <name lng="en">Tropics</name>
+        <name lng="ru">Тропики</name>
+    </category>
+    <category id="21" music="2.mp3">
+        <name lng="en">Princesses</name>
+        <name lng="ru">Принцессы</name>
+    </category>
+    <category id="22" music="3.mp3">
+        <name lng="en">Fairies</name>
+        <name lng="ru">Феи</name>
+    </category>
+    <category id="23" music="1.mp3">
+        <name lng="en">Dinosaurs</name>
+        <name lng="ru">Динозавры</name>
+    </category>
+    <category id="24" music="2.mp3">
+        <name lng="en">Mermaids</name>
+        <name lng="ru">Русалки</name>
+    </category>
+    <category id="25" music="1.mp3">
+        <name lng="en">Animals</name>
+        <name lng="ru">Животные</name>
+    </category>
+    <category id="26" music="19.mp3">
+        <name lng="en">Autumn</name>
+        <name lng="ru">Осень</name>
+    </category>
+    <category id="27" music="21.mp3">
+        <name lng="en">Winter</name>
+        <name lng="ru">Зима</name>
+    </category>
+    <category id="28" music="23.mp3">
+        <name lng="en">Travel</name>
+        <name lng="ru">Путешествие</name>
+    </category>
+</categories>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levels>
+    <level time="120" timeup="5" cols="3" rows="3" size="128" difficulty="3" back="back_1.png">
+        <line face="icon_1.png"/>
+        <line face="icon_2.png"/>
+        <line face="icon_3.png"/>
+        <line face="icon_4.png"/>
+        <line face="icon_5.png"/>
+        <line face="icon_6.png"/>
+    </level>
+    <level time="120" timeup="5" cols="3" rows="3" size="128" difficulty="3" back="back_2.png">
+        <line face="icon_7.png"/>
+        <line face="icon_8.png"/>
+        <line face="icon_9.png"/>
+        <line face="icon_10.png"/>
+        <line face="icon_11.png"/>
+        <line face="icon_12.png"/>
+    </level>
+    <level time="120" timeup="5" cols="3" rows="3" size="128" difficulty="3" back="back_3.png">
+        <line face="icon_13.png"/>
+        <line face="icon_14.png"/>
+        <line face="icon_15.png"/>
+        <line face="icon_16.png"/>
+        <line face="icon_17.png"/>
+        <line face="icon_18.png"/>
+    </level>
+    <level time="120" timeup="5" cols="4" rows="4" size="128" difficulty="3" back="back_1.png">
+        <line face="icon_1.png"/>
+        <line face="icon_3.png"/>
+        <line face="icon_4.png"/>
+        <line face="icon_5.png"/>
+        <line face="icon_8.png"/>
+        <line face="icon_12.png"/>
+    </level>
+    <level time="120" timeup="5" cols="4" rows="4" size="128" difficulty="4" back="back_2.png">
+        <line face="icon_1.png"/>
+        <line face="icon_2.png"/>
+        <line face="icon_3.png"/>
+        <line face="icon_10.png"/>
+        <line face="icon_11.png"/>
+        <line face="icon_12.png"/>
+    </level>
+    <level time="120" timeup="5" cols="4" rows="4" size="128" difficulty="4" back="back_3.png">
+        <line face="icon_4.png"/>
+        <line face="icon_5.png"/>
+        <line face="icon_7.png"/>
+        <line face="icon_8.png"/>
+        <line face="icon_9.png"/>
+        <line face="icon_11.png"/>
+        <line face="icon_12.png"/>
+        <line face="icon_13.png"/>
+    </level>
+    <level time="120" timeup="5" cols="4" rows="4" size="128" difficulty="4" back="back_1.png">
+        <line face="icon_1.png"/>
+        <line face="icon_2.png"/>
+        <line face="icon_7.png"/>
+        <line face="icon_8.png"/>
+        <line face="icon_9.png"/>
+        <line face="icon_10.png"/>
+        <line face="icon_11.png"/>
+        <line face="icon_12.png"/>
+    </level>
+    <level time="120" timeup="5" cols="4" rows="4" size="128" difficulty="4" back="back_2.png">
+        <line face="icon_3.png"/>
+        <line face="icon_4.png"/>
+        <line face="icon_5.png"/>
+        <line face="icon_8.png"/>
+        <line face="icon_9.png"/>
+        <line face="icon_16.png"/>
+        <line face="icon_17.png"/>
+        <line face="icon_18.png"/>
+    </level>
+    <level time="120" timeup="5" cols="5" rows="5" size="128" difficulty="5" back="back_1.png">
+        <line face="icon_8.png"/>
+        <line face="icon_9.png"/>
+        <line face="icon_10.png"/>
+        <line face="icon_11.png"/>
+        <line face="icon_12.png"/>
+        <line face="icon_13.png"/>
+        <line face="icon_14.png"/>
+        <line face="icon_15.png"/>
+    </level>
+    <level time="120" timeup="5" cols="5" rows="5" size="128" difficulty="5" back="back_2.png">
+        <line face="icon_1.png"/>
+        <line face="icon_2.png"/>
+        <line face="icon_3.png"/>
+        <line face="icon_4.png"/>
+        <line face="icon_5.png"/>
+        <line face="icon_6.png"/>
+        <line face="icon_7.png"/>
+        <line face="icon_8.png"/>
+    </level>
+    <level time="120" timeup="5" cols="5" rows="5" size="128" difficulty="6" back="back_3.png">
+        <line face="icon_10.png"/>
+        <line face="icon_11.png"/>
+        <line face="icon_12.png"/>
+        <line face="icon_13.png"/>
+        <line face="icon_14.png"/>
+        <line face="icon_15.png"/>
+        <line face="icon_16.png"/>
+        <line face="icon_17.png"/>
+    </level>
+    <level time="120" timeup="5" cols="5" rows="5" size="128" difficulty="6" back="back_1.png">
+        <line face="icon_5.png"/>
+        <line face="icon_6.png"/>
+        <line face="icon_7.png"/>
+        <line face="icon_8.png"/>
+        <line face="icon_9.png"/>
+        <line face="icon_10.png"/>
+        <line face="icon_11.png"/>
+        <line face="icon_12.png"/>
+    </level>
+</levels>

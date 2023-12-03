@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levels>
+    <level location="level_1" time="120" timeup="5" cols="3" rows="4" size="256" back="back.png">
+        <line face="A.png"/>
+        <line face="B.png"/>
+        <line face="C.png"/>
+        <line face="D.png"/>
+        <line face="E.png"/>
+        <line face="F.png"/>
+    </level>
+    <level location="level_2" time="120" timeup="5" cols="3" rows="4" size="256" back="back.png">
+        <line face="1.png"/>
+        <line face="2.png"/>
+        <line face="3.png"/>
+        <line face="4.png"/>
+        <line face="5.png"/>
+        <line face="6.png"/>
+    </level>
+    <level location="level_3" time="120" timeup="5" cols="3" rows="4" size="256" back="back.png">
+        <line face="1.png"/>
+        <line face="2.png"/>
+        <line face="3.png"/>
+        <line face="4.png"/>
+        <line face="5.png"/>
+        <line face="6.png"/>
+    </level>
+    <level location="level_4" time="120" timeup="5" cols="3" rows="4" size="256" back="back.png">
+        <line face="apple.png"/>
+        <line face="grape.png"/>
+        <line face="strawberry.png"/>
+        <line face="papaya.png"/>
+        <line face="pineapple.png"/>
+        <line face="watermelon.png"/>
+    </level>
+    <level location="level_5" time="140" timeup="5" cols="4" rows="4" size="256" back="back.png">
+        <line face="1.png"/>
+        <line face="2.png"/>
+        <line face="3.png"/>
+        <line face="4.png"/>
+        <line face="5.png"/>
+        <line face="6.png"/>
+        <line face="7.png"/>
+        <line face="8.png"/>
+    </level>
+    <level location="level_6" time="140" timeup="5" cols="4" rows="4" size="256" back="back.png">
+        <line face="7.png"/>
+        <line face="8.png"/>
+        <line face="9.png"/>
+        <line face="10.png"/>
+        <line face="11.png"/>
+        <line face="12.png"/>
+        <line face="13.png"/>
+        <line face="14.png"/>
+    </level>
+    <level location="level_7" time="170" timeup="5" cols="4" rows="5" size="256" back="back.png">
+        <line face="G.png"/>
+        <line face="H.png"/>
+        <line face="I.png"/>
+        <line face="J.png"/>
+        <line face="K.png"/>
+        <line face="L.png"/>
+        <line face="M.png"/>
+        <line face="N.png"/>
+        <line face="O.png"/>
+        <line face="P.png"/>
+    </level>
+    <level location="level_8" time="170" timeup="5" cols="4" rows="5" size="256" back="back.png">
+        <line face="7.png"/>
+        <line face="8.png"/>
+        <line face="9.png"/>
+        <line face="Q.png"/>
+        <line face="R.png"/>
+        <line face="S.png"/>
+        <line face="T.png"/>
+        <line face="U.png"/>
+        <line face="V.png"/>
+        <line face="W.png"/>
+    </level>
+    <level location="level_9" time="200" timeup="5" cols="4" rows="6" size="256" back="back.png">
+        <line face="1.png"/>
+        <line face="2.png"/>
+        <line face="3.png"/>
+        <line face="4.png"/>
+        <line face="5.png"/>
+        <line face="6.png"/>
+        <line face="7.png"/>
+        <line face="8.png"/>
+        <line face="15.png"/>
+        <line face="X.png"/>
+        <line face="Y.png"/>
+        <line face="Z.png"/>
+    </level>
+</levels>

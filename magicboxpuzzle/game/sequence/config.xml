@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category id="0" music="6.mp3">
+        <name lng="en">New Year</name>
+        <name lng="ru">Новый год</name>
+    </category>
+    <category id="1" music="5.mp3">
+        <name lng="en">Christmas</name>
+        <name lng="ru">Рождество</name>
+    </category>
+    <category id="2" music="1.mp3">
+        <name lng="en">Fruits</name>
+        <name lng="ru">Фрукты</name>
+    </category>
+    <category id="3" music="2.mp3">
+        <name lng="en">Halloween</name>
+        <name lng="ru">Хэллоуин</name>
+    </category>
+    <category id="4" music="3.mp3">
+        <name lng="en">Autumn</name>
+        <name lng="ru">Осень</name>
+    </category>
+    <category id="5" music="14.mp3">
+        <name lng="en">Robots</name>
+        <name lng="ru">Роботы</name>
+    </category>
+    <category id="6" music="1.mp3">
+        <name lng="en">Dinosaurs</name>
+        <name lng="ru">Динозавры</name>
+    </category>
+    <category id="7" music="3.mp3">
+        <name lng="en">Animals</name>
+        <name lng="ru">Животные</name>
+    </category>
+    <category id="8" music="17.mp3">
+        <name lng="en">Beauty salon</name>
+        <name lng="ru">Салон красоты</name>
+    </category>
+    <category id="9" music="15.mp3">
+        <name lng="en">Dragons</name>
+        <name lng="ru">Драконы</name>
+    </category>
+</categories>

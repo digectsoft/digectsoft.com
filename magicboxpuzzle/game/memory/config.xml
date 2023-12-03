@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category id="0" music="5.mp3">
+        <name lng="en">New Year</name>
+        <name lng="ru">Новый год</name>
+    </category>
+    <category id="1" music="4.mp3">
+        <name lng="en">Gift</name>
+        <name lng="ru">Подарок</name>
+    </category>
+    <category id="2" music="9.mp3">
+        <name lng="en">Education</name>
+        <name lng="ru">Образование</name>
+    </category>
+    <category id="3" music="1.mp3">
+        <name lng="en">Relax</name>
+        <name lng="ru">Отдых</name>
+    </category>
+    <category id="4" music="6.mp3">
+        <name lng="en">Christmas</name>
+        <name lng="ru">Рождество</name>
+    </category>
+    <category id="5" music="15.mp3">
+        <name lng="en">Birds</name>
+        <name lng="ru">Птицы</name>
+    </category>
+    <category id="6" music="18.mp3">
+        <name lng="en">Sweets</name>
+        <name lng="ru">Вкусняшки</name>
+    </category>
+    <category id="7" music="20.mp3">
+        <name lng="en">Halloween</name>
+        <name lng="ru">Хэллоуин</name>
+    </category>
+    <category id="8" music="22.mp3">
+        <name lng="en">Love match</name>
+        <name lng="ru">Любовь</name>
+    </category>
+    <category id="9" music="24.mp3">
+        <name lng="en">Easter</name>
+        <name lng="ru">Пасха</name>
+    </category>
+</categories>

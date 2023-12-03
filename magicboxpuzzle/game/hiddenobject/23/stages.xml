@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stages>
+    <stage>
+        <level location="location_1" start="0" end="0"/>
+        <level location="location_1" start="1" end="2"/>
+        <level location="location_1" start="3" end="5"/>
+        <level location="location_1" start="6" end="9"/>
+        <level location="location_1" start="10" end="14"/>
+        <level location="location_1" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_2" start="0" end="0"/>
+        <level location="location_2" start="1" end="2"/>
+        <level location="location_2" start="3" end="5"/>
+        <level location="location_2" start="6" end="9"/>
+        <level location="location_2" start="10" end="14"/>
+        <level location="location_2" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_3" start="0" end="0"/>
+        <level location="location_3" start="1" end="2"/>
+        <level location="location_3" start="3" end="5"/>
+        <level location="location_3" start="6" end="9"/>
+        <level location="location_3" start="10" end="14"/>
+        <level location="location_3" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_4" start="0" end="0"/>
+        <level location="location_4" start="1" end="2"/>
+        <level location="location_4" start="3" end="5"/>
+        <level location="location_4" start="6" end="9"/>
+        <level location="location_4" start="10" end="14"/>
+        <level location="location_4" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_5" start="0" end="0"/>
+        <level location="location_5" start="1" end="2"/>
+        <level location="location_5" start="3" end="5"/>
+        <level location="location_5" start="6" end="9"/>
+        <level location="location_5" start="10" end="14"/>
+        <level location="location_5" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_6" start="0" end="0"/>
+        <level location="location_6" start="1" end="2"/>
+        <level location="location_6" start="3" end="5"/>
+        <level location="location_6" start="6" end="9"/>
+        <level location="location_6" start="10" end="14"/>
+        <level location="location_6" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_7" start="0" end="0"/>
+        <level location="location_7" start="1" end="2"/>
+        <level location="location_7" start="3" end="5"/>
+        <level location="location_7" start="6" end="9"/>
+        <level location="location_7" start="10" end="14"/>
+        <level location="location_7" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_8" start="0" end="0"/>
+        <level location="location_8" start="1" end="2"/>
+        <level location="location_8" start="3" end="5"/>
+        <level location="location_8" start="6" end="9"/>
+        <level location="location_8" start="10" end="14"/>
+        <level location="location_8" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_9" start="0" end="0"/>
+        <level location="location_9" start="1" end="2"/>
+        <level location="location_9" start="3" end="5"/>
+        <level location="location_9" start="6" end="9"/>
+        <level location="location_9" start="10" end="14"/>
+        <level location="location_9" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_10" start="0" end="0"/>
+        <level location="location_10" start="1" end="2"/>
+        <level location="location_10" start="3" end="5"/>
+        <level location="location_10" start="6" end="9"/>
+        <level location="location_10" start="10" end="14"/>
+        <level location="location_10" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_11" start="0" end="0"/>
+        <level location="location_11" start="1" end="2"/>
+        <level location="location_11" start="3" end="5"/>
+        <level location="location_11" start="6" end="9"/>
+        <level location="location_11" start="10" end="14"/>
+        <level location="location_11" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_12" start="0" end="0"/>
+        <level location="location_12" start="1" end="2"/>
+        <level location="location_12" start="3" end="5"/>
+        <level location="location_12" start="6" end="9"/>
+        <level location="location_12" start="10" end="14"/>
+        <level location="location_12" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_13" start="0" end="0"/>
+        <level location="location_13" start="1" end="2"/>
+        <level location="location_13" start="3" end="5"/>
+        <level location="location_13" start="6" end="9"/>
+        <level location="location_13" start="10" end="14"/>
+        <level location="location_13" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_14" start="0" end="0"/>
+        <level location="location_14" start="1" end="2"/>
+        <level location="location_14" start="3" end="5"/>
+        <level location="location_14" start="6" end="9"/>
+        <level location="location_14" start="10" end="14"/>
+        <level location="location_14" start="15" end="20"/>
+    </stage>
+    <stage>
+        <level location="location_15" start="0" end="0"/>
+        <level location="location_15" start="1" end="2"/>
+        <level location="location_15" start="3" end="5"/>
+        <level location="location_15" start="6" end="9"/>
+        <level location="location_15" start="10" end="14"/>
+        <level location="location_15" start="15" end="20"/>
+    </stage>
+</stages>

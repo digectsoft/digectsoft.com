@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stages>
+    <stage folder="stage_1">
+        <level difficulty="3" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="3" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="3" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="3" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_2">
+        <level difficulty="3" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="3" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="3" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="3" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_3">
+        <level difficulty="3" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="3" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="3" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="3" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_4">
+        <level difficulty="4" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="4" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="4" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="4" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_5">
+        <level difficulty="4" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="4" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="4" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="4" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_6">
+        <level difficulty="4" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="4" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="4" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="4" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_7">
+        <level difficulty="4" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="4" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="4" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="4" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_8">
+        <level difficulty="4" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="4" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="4" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="4" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_9">
+        <level difficulty="4" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="4" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="4" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="4" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_10">
+        <level difficulty="4" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="4" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="4" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="4" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_11">
+        <level difficulty="4" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="4" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="4" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="4" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_12">
+        <level difficulty="4" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="4" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="4" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="4" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_13">
+        <level difficulty="5" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="5" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="5" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="5" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_14">
+        <level difficulty="5" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="5" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="5" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="5" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_15">
+        <level difficulty="5" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="5" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="5" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="5" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_16">
+        <level difficulty="5" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="5" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="5" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="5" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_17">
+        <level difficulty="5" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="5" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="5" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="5" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_18">
+        <level difficulty="5" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="5" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="5" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="5" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_19">
+        <level difficulty="5" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="5" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="5" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="5" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_20">
+        <level difficulty="5" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="5" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="5" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="5" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_21">
+        <level difficulty="5" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="5" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="5" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="5" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_22">
+        <level difficulty="6" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="6" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="6" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="6" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_23">
+        <level difficulty="6" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="6" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="6" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="6" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_24">
+        <level difficulty="6" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="6" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="6" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="6" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+    <stage folder="stage_25">
+        <level difficulty="6" image="image_1.jpg" icon="item_image_1.jpg"/>
+        <level difficulty="6" image="image_2.jpg" icon="item_image_2.jpg"/>
+        <level difficulty="6" image="image_3.jpg" icon="item_image_3.jpg"/>
+        <level difficulty="6" image="image_4.jpg" icon="item_image_4.jpg"/>
+    </stage>
+</stages>

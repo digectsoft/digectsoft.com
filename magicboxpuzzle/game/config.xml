@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game id="0">
+        <name lng="en">Puzzle</name>
+        <name lng="ru">Пазл</name>
+    </game>
+    <game id="1">
+        <name lng="en">Hidden</name>
+        <name lng="ru">Хидден</name>
+    </game>
+    <game id="2">
+        <name lng="en">Memory</name>
+        <name lng="ru">Меморис</name>
+    </game>
+    <game id="3">
+        <name lng="en">Sequence</name>
+        <name lng="ru">Сиквенс</name>
+    </game>
+</games>
